@@ -4,6 +4,10 @@ A public-safe AI product workflow demo for turning grounded research notes into 
 
 This repository packages the public-facing idea behind a larger local deck generation system: source material should become a traceable presentation artifact through a stable contract, not through one-off slide editing.
 
+- Portfolio homepage: <https://firejw.github.io/research-to-deck/>
+- Demo runbook: [docs/demo-runbook.md](docs/demo-runbook.md)
+- Security notes: [docs/security-and-privacy.md](docs/security-and-privacy.md)
+
 ## Why This Exists
 
 Research-to-deck work usually fails in predictable ways:
@@ -104,6 +108,7 @@ This project is useful as an AI PM / product strategy portfolio artifact because
 
 ## Documentation
 
+- [Portfolio homepage](https://firejw.github.io/research-to-deck/)
 - [Homepage copy](docs/index.md)
 - [Case study](docs/case-study.md)
 - [Architecture](docs/architecture.md)
